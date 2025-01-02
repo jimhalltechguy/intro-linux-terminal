@@ -4,21 +4,21 @@ Here are some of the most commonly used basic Linux commands.</b>.<br/>
  present working directory
 	<h2>“ls”</h2>
  list the contents of the directory that we are in
-	</h2>“cd Documents”</h2>
+	<h2>“cd Documents”</h2>
  - change to the Documents directory</h2>
-	</h2>“cd ..”</h2>
+	<h2>“cd ..”</h2>
  - go up one level</h2>
-	</h2>“mkdir (name)</h2>” 
+	<h2>“mkdir (name)</h2>” 
  - make a new directory, titled by the name we give it</h2>
-</h2>“touch test.txt”</h2>
+<h2>“touch test.txt”</h2>
 - make a new file called Test</h2>
-</h2>“clear”</h2> 
+<h2>“clear”</h2> 
 - clear away the text/commands currently on the screen (makes it easier to read)</h2>
-</h2>“cat test.txt”</h2>
+<h2>“cat test.txt”</h2>
 - show the contents of the test.txt file</h2>
-</h2>“cat - - help”</h2>
+<h2>“cat - - help”</h2>
 - shows us documentation and options for the cat command</h2>
-</h2>“man cat”</h2> 
+<h2>“man cat”</h2> 
 - brings up help manual for the cat command; more info than “help” command</h2>
 		NOTE - be sure to press “q” to quit a manual</h2>
 
