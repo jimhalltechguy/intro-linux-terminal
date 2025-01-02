@@ -1,5 +1,6 @@
 <h1>Introduction to the Linux Terminal</h1>
 Here are some of the most commonly used basic Linux commands</b>:<br/>
+<p></p>
 	<h2>“pwd”</h2>
  Present working directory
 	<h2>“ls”</h2>
