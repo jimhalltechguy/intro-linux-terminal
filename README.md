@@ -8,7 +8,7 @@ Here are some of the most commonly used basic Linux commands</b>:<br/>
  Change to the Documents directory</h2>
 	<h2>“cd ..”</h2>
  Go up one level</h2>
-	<h2>“mkdir (name)</h2>” 
+	<h2>“mkdir (name)"</h2> 
  Make a new directory, titled by the name we give it</h2>
 <h2>“touch test.txt”</h2>
 Make a new file called Test</h2>
